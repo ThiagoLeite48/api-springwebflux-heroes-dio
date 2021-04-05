@@ -1,7 +1,19 @@
+## Stack Utilizada:
+
+- Java
+- spring webflux
+- Spring data
+- dynamodb
+- junit
+- sl4j
+- reactor
+
+
+
 Executar dynamo: 
 
  java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
- 
+
  aws dynamodb list-tables --endpoint-url http://localhost:8000
 
 
