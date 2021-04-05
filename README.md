@@ -1,14 +1,20 @@
 ## Stack Utilizada:
 
 - Java
+
 - spring webflux
+
 - Spring data
+
 - dynamodb
+
 - junit
+
 - sl4j
+
 - reactor
 
-
+  
 
 Executar dynamo: 
 
